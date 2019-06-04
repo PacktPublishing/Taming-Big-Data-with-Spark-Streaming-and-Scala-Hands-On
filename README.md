@@ -8,10 +8,10 @@ Businesses these days require constant, real-time analysis of large amounts of d
 <DIV class=book-info-will-learn-text>
 <UL>
 <LI> Process large amounts of real-time data using the Spark Streaming module</LI>
-<LI> Create efficient Spark applications using the Scala programming language <LI>
- <LI> Integrate Spark Streaming with various data sources <LI>
- <LI> Integrate Spark Streaming with Spark SQL to query your data in real time <LI>
-  <LI> Train machine learning models with streaming data, and use them for making real-time predictions <LI>
+<LI> Create efficient Spark applications using the Scala programming language </LI>
+ <LI> Integrate Spark Streaming with various data sources </LI>
+ <LI> Integrate Spark Streaming with Spark SQL to query your data in real time </LI>
+  <LI> Train machine learning models with streaming data, and use them for making real-time predictions </LI>
 </UL></DIV>
 
 ## Instructions and Navigation
